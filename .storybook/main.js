@@ -7,6 +7,7 @@ module.exports = {
     "@storybook/addon-links",
     "@storybook/addon-essentials",
     "@storybook/addon-interactions",
+    "@storybook/addon-sass-postcss",
     "@storybook/preset-create-react-app"
   ],
   "framework": "@storybook/react",

@@ -1,5 +1,5 @@
 import React from 'react';
-import './EducationEntry.css';
+import './EducationEntry.scss';
 
 interface ThesisProps {
   /**
